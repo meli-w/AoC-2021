@@ -1,2 +1,2 @@
-rootProject.name = "aoc-kotlin-template"
+rootProject.name = "aoc-kotlin"
 include("app")
