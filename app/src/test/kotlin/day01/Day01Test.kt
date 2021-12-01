@@ -5,12 +5,11 @@ import io.kotest.matchers.shouldBe
 
 class Day01Test : FreeSpec({
 
-    val sampleInput: List<String> = listOf(
-    )
+    val sampleInput: List<String> = listOf("199", "200", "208", "210", "200", "207", "240", "269", "260", "263")
 
-    val sampleSolutionPart1: Int = -1
+    val sampleSolutionPart1: Int = 7
 
-    val sampleSolutionPart2: Int = -1
+    val sampleSolutionPart2: Int = 5
 
     "Solving day 1" - {
         "part 1 for the sample input should return the correct output" {
