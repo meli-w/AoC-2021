@@ -9,6 +9,7 @@ This repo is based [henningBunk](https://github.com/henningBunk/advent-of-code-k
 [Day 2](https://github.com/meli-w/AoC-2021/blob/main/app/src/main/kotlin/day02/Day02.kt)  
 [Day 3](https://github.com/meli-w/AoC-2021/blob/main/app/src/main/kotlin/day03/Day03.kt)  
 [Day 4](https://github.com/meli-w/AoC-2021/blob/main/app/src/main/kotlin/day04/Day04.kt)
+[Day 5](https://github.com/meli-w/AoC-2021/blob/main/app/src/main/kotlin/day05/Day05.kt)
 
 
 ### Setup / Run
