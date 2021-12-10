@@ -14,6 +14,7 @@ for AoC
 [Day 4](https://github.com/meli-w/AoC-2021/blob/main/app/src/main/kotlin/day04/Day04.kt)  
 [Day 5](https://github.com/meli-w/AoC-2021/blob/main/app/src/main/kotlin/day05/Day05.kt)  
 [Day 6](https://github.com/meli-w/AoC-2021/blob/main/app/src/main/kotlin/day06/Day06.kt)
+[Day 7](https://github.com/meli-w/AoC-2021/blob/main/app/src/main/kotlin/day07/Day07.kt)  
 
 ### Setup / Run
 
